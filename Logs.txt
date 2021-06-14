@@ -1,0 +1,6 @@
+[2021-06-05 12:45:19.911837] Eye exercises done
+[2021-06-05 13:00:13.265917] Physical activity done
+[2021-06-05 13:30:13.084263] Drank one glass of water
+[2021-06-05 13:45:29.472039] Eye exercises done
+[2021-06-05 13:45:38.519709] Physical activity done
+[2021-06-05 14:00:09.865805] Drank one glass of water
