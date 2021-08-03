@@ -7,3 +7,5 @@ In order to adopt healthy practices, I designed this program to remind the user 
 - Reminder to exercise the eyes, every thirty minutes, starting from 9:15 AM.
 - Reminder to exercise the body, every forty-five minutes, starting from 9:15 AM.
 - Program runs from 9AM to 5PM only
+## Logs
+- Every action done is logged into a file, designated for the particular activity, with a timestamp.
